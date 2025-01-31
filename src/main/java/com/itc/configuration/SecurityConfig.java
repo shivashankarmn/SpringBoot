@@ -69,6 +69,11 @@ public class SecurityConfig {
 	public UserDetailsService userDetailsService() {
 		return new MyUserDetailsService();
 	}
+
+	@Bean
+	public UserDetailsService userDetailsService() {
+		return new MyUserDetailsService();
+	}
 	
 	
 }
