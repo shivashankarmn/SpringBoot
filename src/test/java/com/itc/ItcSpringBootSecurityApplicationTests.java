@@ -10,4 +10,8 @@ class ItcSpringBootSecurityApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoads() {
+	}
+
 }
